@@ -1,0 +1,15 @@
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\bin\Debug\WpfAppLesson4.exe.config
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\bin\Debug\WpfAppLesson4.exe
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\bin\Debug\WpfAppLesson4.pdb
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\MainWindow.g.cs
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\App.g.cs
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4_MarkupCompile.cache
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4_MarkupCompile.lref
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\MainWindow.baml
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4.g.resources
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4.Properties.Resources.resources
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4.csproj.GenerateResource.cache
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4.exe
+C:\Users\Anatoliy\source\repos\WpfAppLesson4\WpfAppLesson4\obj\Debug\WpfAppLesson4.pdb
